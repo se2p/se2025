@@ -40,3 +40,27 @@ Vorlesung beschaeftigen wir uns mit dem verteilten Versionsverwaltungssystem
 Git. Das Notebook betrachtet die Verwendung von Git an der Kommandozeile. [Markdown Export](rendered/2%20Versionskontrolle.md)
 
 
+### 3: Vorlesung vom 12.5.2025: Testen mit JUnit
+
+Das Testen ist eine der wichtigsten Methoden um die Qualitaet von Sourcecode
+sicherzustellen. In diesem Notebook sind die Beispiele aus der Vorlesung
+rund um das JUnit 4 Test-Framework fuer Java gesammelt. [Markdown Export](rendered/3%20Testen.md)
+
+
+### 4: Vorlesung vom 19.5.2025: Refactoring
+
+Refactoring bezeichnet den Vorgang der Verbesserung der Code Qualitaet, ohne
+dabei die Funktionalitaet zu veraendern. Ein essentieller Bestandteil des
+Refactorings ist daher, die bestehenden Tests regelmaessig auszufuehren und
+die Funktionalitaet zu ueberpruefen. In diesem Notebook wird das in der
+Vorlesung vorgestellte Code-Beispiel in Einzelschritten nochmal erklaert.
+[Markdown Export](rendered/4%20Refactoring.md)
+
+
+### 5: Vorlesung vom 7.7.2025: Design Patterns (Teil 1/2)
+
+Entwurfsmuster (Design Patterns) bezeichnen allgemeine Loesungen fuer
+wiederkehrende Probleme in der Softwareentwicklung. Wir betrachten in diesem
+und dem naechsten Notebook ein paar der wichtigsten Design Patterns.
+[Markdown Export](rendered/5%20Design%20Patterns%201.md)
+
